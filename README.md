@@ -261,7 +261,7 @@ Have questions or feedback? We'd love to hear from you!
 
 -   **Email:** support@unblockvpn.io
 -   **Twitter:** [@UnblockVPN](https://twitter.com/UnblockVPN)
--   **GitHub:** [yourusername/unblockvpn.io](https://github.com/yourusername/unblockvpn.io)
+-   **GitHub:** [unblock-everything/web](https://github.com/unblock-everything/web)
 
 * * * * *
 
